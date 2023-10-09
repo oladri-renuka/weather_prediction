@@ -43,4 +43,5 @@ Oladri Renuka (renukareddy.oladhri@gmail.com) Avula Jhansy (avulajhansy6@gmail.c
 - API key: The web app uses the OpenWeatherMap API. Make sure to replace the placeholder API key in the script with your own key.
 
 ## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
